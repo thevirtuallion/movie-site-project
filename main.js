@@ -13,7 +13,7 @@ function select_search(event) {
   let search_input_text = "";
   if (event.target.matches("input[id='name']")) {
     search_type = "?t=";
-    search_input_text = "Enter movie name: ";
+    search_input_text = "Enter movie title: ";
   }
   document.getElementById("search-input-label").innerText = search_input_text;
 }
