@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\build-a-reusable-comment-component"
+		},
+		{
+			"path": "..\\comment-component"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "build-a-reusable-comment-component"
+	}
+}
